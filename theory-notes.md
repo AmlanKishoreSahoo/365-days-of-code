@@ -9,7 +9,7 @@ src: Specifies the exact path or link to the image.
 
 alt: Provides a text description. This is crucial for accessibility (screen readers) and if the image fails to load.
 
-Syntax: <img src="link" alt="description">
+Syntax: <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Two tabby kittens sleeping together on a couch.">
 
 The Anchor Tag (<a>):
 
